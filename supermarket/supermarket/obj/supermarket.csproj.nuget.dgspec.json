@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/supermarket.csproj": {}
+  },
+  "projects": {
+    "/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/supermarket.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/supermarket.csproj",
+        "projectName": "supermarket",
+        "projectPath": "/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/supermarket.csproj",
+        "packagesPath": "/Users/saziyamukadam/.nuget/packages/",
+        "outputPath": "/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/saziyamukadam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

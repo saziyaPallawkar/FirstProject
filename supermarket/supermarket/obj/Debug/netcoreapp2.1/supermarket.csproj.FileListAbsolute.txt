@@ -1,0 +1,11 @@
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/bin/Debug/netcoreapp2.1/supermarket.deps.json
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/bin/Debug/netcoreapp2.1/supermarket.runtimeconfig.json
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/bin/Debug/netcoreapp2.1/supermarket.runtimeconfig.dev.json
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/bin/Debug/netcoreapp2.1/supermarket.dll
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/bin/Debug/netcoreapp2.1/supermarket.pdb
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/obj/Debug/netcoreapp2.1/supermarket.csprojAssemblyReference.cache
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/obj/Debug/netcoreapp2.1/supermarket.csproj.CoreCompileInputs.cache
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/obj/Debug/netcoreapp2.1/supermarket.AssemblyInfoInputs.cache
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/obj/Debug/netcoreapp2.1/supermarket.AssemblyInfo.cs
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/obj/Debug/netcoreapp2.1/supermarket.dll
+/Users/saziyamukadam/Documents/gitrepos/FirstProject/supermarket/supermarket/obj/Debug/netcoreapp2.1/supermarket.pdb

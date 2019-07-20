@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5A349CAA-C06F-4205-BF8D-49A521A34037}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="supermarket/SuperMarket.cs">
+    <Files>
+      <File FileName="supermarket/Program.cs" Line="13" Column="1" />
+      <File FileName="supermarket/SuperMarket.cs" Line="163" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="supermarket" expanded="True">
+            <Node name="supermarket" expanded="True">
+              <Node name="SuperMarket.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.supermarket FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
