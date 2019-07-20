@@ -1,0 +1,11 @@
+/Users/saziyamukadam/Projects/Project/Project/bin/Debug/netcoreapp2.1/Project.deps.json
+/Users/saziyamukadam/Projects/Project/Project/bin/Debug/netcoreapp2.1/Project.runtimeconfig.json
+/Users/saziyamukadam/Projects/Project/Project/bin/Debug/netcoreapp2.1/Project.runtimeconfig.dev.json
+/Users/saziyamukadam/Projects/Project/Project/bin/Debug/netcoreapp2.1/Project.dll
+/Users/saziyamukadam/Projects/Project/Project/bin/Debug/netcoreapp2.1/Project.pdb
+/Users/saziyamukadam/Projects/Project/Project/obj/Debug/netcoreapp2.1/Project.csproj.CoreCompileInputs.cache
+/Users/saziyamukadam/Projects/Project/Project/obj/Debug/netcoreapp2.1/Project.AssemblyInfoInputs.cache
+/Users/saziyamukadam/Projects/Project/Project/obj/Debug/netcoreapp2.1/Project.AssemblyInfo.cs
+/Users/saziyamukadam/Projects/Project/Project/obj/Debug/netcoreapp2.1/Project.dll
+/Users/saziyamukadam/Projects/Project/Project/obj/Debug/netcoreapp2.1/Project.pdb
+/Users/saziyamukadam/Projects/Project/Project/obj/Debug/netcoreapp2.1/Project.csprojAssemblyReference.cache
